@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/flac.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0be40c6285dd95df940ba951634c0ff9/transformed/jetified-flac/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70c367ce6260bfebbcf0840afac34985/transformed/jetified-flac/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/860e282f151c3b3ec18152209733f173/transformed/jetified-flac/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0be40c6285dd95df940ba951634c0ff9/transformed/jetified-flac/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0be40c6285dd95df940ba951634c0ff9/transformed/jetified-flac/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0be40c6285dd95df940ba951634c0ff9/transformed/jetified-flac/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

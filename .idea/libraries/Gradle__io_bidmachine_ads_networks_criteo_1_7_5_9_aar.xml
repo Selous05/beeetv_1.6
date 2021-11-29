@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.bidmachine:ads.networks.criteo:1.7.5.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e507c6e3cdc87ae3cdc880230d52d4f/transformed/jetified-ads.networks.criteo-1.7.5.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5beacb628350d7587fb6603a734ba803/transformed/jetified-ads.networks.criteo-1.7.5.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e66620f37f90e103e0681a00a20e29ef/transformed/jetified-ads.networks.criteo-1.7.5.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e66620f37f90e103e0681a00a20e29ef/transformed/jetified-ads.networks.criteo-1.7.5.9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e66620f37f90e103e0681a00a20e29ef/transformed/jetified-ads.networks.criteo-1.7.5.9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

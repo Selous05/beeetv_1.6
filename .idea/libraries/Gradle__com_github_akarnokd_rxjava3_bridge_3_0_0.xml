@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.akarnokd:rxjava3-bridge:3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava3-bridge/3.0.0/7a814ec996795d0af2b95609a0f8568c86ac226c/rxjava3-bridge-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava3-bridge/3.0.0/274d6391ea01768a9ce92c3a55a2a61303c9e027/rxjava3-bridge-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava3-bridge/3.0.0/3c2bad13762012817c7edd4d8af9665d63cbddcc/rxjava3-bridge-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

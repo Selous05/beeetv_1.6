@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/rootLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:clipToPadding="false"
+        >
+
+        <FrameLayout
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+
+
+            <com.beeecorptv.util.GridItemImageView
+                android:id="@+id/itemMovieImage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop"
+
+                />
+
+            <com.beeecorptv.util.GridItemImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop"
+                android:background="@drawable/fragment_shadows_top"
+
+                />
+
+            <com.beeecorptv.util.GridItemImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/item_recommended_shadow"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="bottom"
+                android:layout_gravity="bottom|end"
+                android:orientation="vertical">
+
+                <com.beeecorptv.util.GridItemImageView
+                    android:id="@+id/info_serie"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_margin="@dimen/spacing_middle"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/image"
+                    app:srcCompat="@drawable/ic_text_fields"
+                    app:tint="@color/white" />
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+
+
+        <TextView
+            android:id="@+id/movietitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="10dp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textStyle="bold"
+            android:maxLength="40"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@color/grey_20"
+            android:textSize="10sp"
+            android:fontFamily="@font/vaud_light"
+            app:layout_constraintTop_toBottomOf="@id/cardView"
+            app:layout_constraintLeft_toLeftOf="parent"
+            tools:text="Movie Title" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

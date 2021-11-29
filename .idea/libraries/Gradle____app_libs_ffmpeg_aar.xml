@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/ffmpeg.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9c7ec7df98668ba0dbdee34464ac521b/transformed/jetified-ffmpeg/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/892dbd41a291ce901e3d466e8c5b06d0/transformed/jetified-ffmpeg/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96eed79d774bf6f0f0ebf93885fae8e2/transformed/jetified-ffmpeg/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96eed79d774bf6f0f0ebf93885fae8e2/transformed/jetified-ffmpeg/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/96eed79d774bf6f0f0ebf93885fae8e2/transformed/jetified-ffmpeg/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

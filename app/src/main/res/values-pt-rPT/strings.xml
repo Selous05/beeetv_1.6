@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+    <!-- Movie Details -->
+    <string name="movie_original_label">Título do Filme</string>
+    <string name="movie_release_label">Data de Lançamento</string>
+    <string name="movie_genres_text">Suspense, Ação, Ficção Científica </string>
+    <string name="movie_overview_label">Sinopse</string>
+    <string name="movie_overview_text">Uma garota de 10 anos, que vagueia longe de seus país por um caminho que a leva para um mundo dominado por estranhas criaturas em formato de animais. Os pais dela são transformados em porcos junsto com outros em uma casa de banho cheia dessas estranhas criaturas. Ela conseguirá voltar para o mundo dela? </string>
+    <string name="movie_cast_label">Elenco</string>
+
+    <!-- Retry -->
+    <string name="home">Home</string>
+
+    <!-- App Strings  -->
+    <string name="discover">Explorar</string>
+    <string name="library">Biblioteca</string>
+    <string name="upcoming">Em Breve</string>
+    <string name="streaming">Streaming</string>
+    <string name="live_text">LIVE</string>
+    <string name="share_msg">Recomendo assistir</string>
+    <string name="about_wifi_warning">Você escolheu para reproduzir apenas no Wi-fi. Vá na opção de Configurações para alterar a opção.</string>
+    <string name="about_no_stream_download">Não há download disponível para esse conteudo, volte mais tarde ou entre em contato no discord.</string>
+    <string name="about_no_stream_download_episode">Não há download disponível para esse episódio, volte mais tarde ou entre em contato no discord.</string>
+    <string name="about_no_stream">Não há transmissão para disponível para esse conteudo, volte mais tarde.</string>
+    <string name="about_error_login"><![CDATA[Email ou Senha Erradas. Tente logar 3–5x novamente. Se o erro persistir entre vá no Discord e escreva !senha no chat. Vá em Menu > SUPORTE]]></string>
+    <string name="err_email">O email precisa ser um endereço válido.</string>
+    <string name="err_name">O campo não pode ser nulo.</string>
+    <string name="err_password">A senha precisa ter no mínimo 6 caracteres de A–Z e 0-9, não pode ter caracteres especiais.</string>
+    <string name="commercial">Comercial</string>
+    <string name="movies_amp_series"><![CDATA[MOVIES & Series]]></string>
+    <string name="settings">Configurações</string>
+    <string name="title">TÍTULO</string>
+    <string name="genre">Gêneros</string>
+    <string name="play_trailer">Reproduzir o Trailer</string>
+    <string name="release_date">DATA DE LANÇAMENTO</string>
+    <string name="synopsis">Sinopse</string>
+    <string name="details">Detalhes</string>
+    <string name="starring">Estrelando</string>
+    <string name="seasons">Temporadas</string>
+    <string name="search_movies_series">Procure Filmes, Series e Animes…</string>
+    <string name="no_relateds_movies_found">Nenhum Filme relacionado encontrado</string>
+    <string name="no_list_result">Adicione Filmes ou Series para a sua lista</string>
+    <string name="list_add_later">Adicione na sua lista para poder achar com mais facilidade</string>
+    <string name="premuim">Premium</string>
+    <string name="already_have_an_account">Já possui uma conta?</string>
+    <string name="password">Senha</string>
+    <string name="email">Email</string>
+    <string name="name">Nome</string>
+    <string name="register">R E G I S T R A R</string>
+    <string name="update_profile">A T U A L I Z A R</string>
+    <string name="copyright">Droits D\'auteur © 2021 EASYPLEX. Tous les droits sont réservés.</string>
+    <string name="image">Imagem</string>
+    <string name="start_watching">COMEÇAR ASSISTIR</string>
+    <string name="register_sucess">Foi Registrado com Sucesso</string>
+    <string name="recommended_for_you">RECOMENDADO PARA VOCÊ</string>
+    <string name="streaming_home">STREAMING</string>
+    <string name="trending_now">EM ALTA</string>
+    <string name="new_releases">ÚLTIMAS ATUALIZAÇÕES EM FILMES</string>
+    <string name="popular_series">SÉRIES POPULARES</string>
+    <string name="latest_series">ÚLTIMAS ATUALIZAÇÕES EM SÉRIES</string>
+    <string name="new_this_week">NOVIDADE DA SEMANA</string>
+    <string name="latest_animes">ÚLTIMAS ATUALIZAÇÕES EM ANIMES</string>
+    <string name="most_popular">Mais populares</string>
+    <string name="free">GRÁTIS</string>
+    <string name="allow_notifications">Permitir Notificaçõess</string>
+    <string name="wi_fi_only">Apenas Wi-Fi</string>
+    <string name="auto_play">Auto Reproduzir</string>
+    <string name="substitle_size">Tamanho da Legenda</string>
+    <string name="current_size">Tamanho Atual</string>
+    <string name="clear_my_list">Limpar minha lista</string>
+    <string name="clear_history">Vocẽ realmente deseja limpar seu histórico?</string>
+    <string name="clear_cache_msg">Essa opção irá limpar o cache deste App!</string>
+    <string name="clear_cache">Limpar Cache</string>
+    <string name="about_us">Suporte</string>
+    <string name="confirm">Confirmar</string>
+    <string name="trailer_loading">Carregar Trailer</string>
+    <string name="genres_list_is_empty">A Lista de Gêneros está Vazia</string>
+    <string name="episodes">Episódios</string>
+    <string name="next_episode">Próximo Episódio</string>
+    <string name="current_background">Cor Atual</string>
+    <string name="ep_n">EPS Nº</string>
+    <string name="check_later">Verificar mais tarde</string>
+    <string name="privacy_amp_policy"><![CDATA[Privacy & Policy]]></string>
+    <string name="decilne">RECUSAR</string>
+    <string name="accept">ACEITAR</string>
+    <string name="relateds">Relacionados</string>
+    <string name="substitles">Legendas</string>
+    <string name="login">L O G I N</string>
+    <string name="skip">P U L A R</string>
+    <string name="signup">CRIAR CONTA</string>
+    <string name="no_upcoming_movies_added">Nenhum Lançamento Adicionado</string>
+    <string name="no_download_movies_added">Nenhum Download Adicionado</string>
+    <string name="this_content_if_only_for_vip">Esse Conteúdo é apenas para os VIPS</string>
+    <string name="sorry">DESCULPE!</string>
+    <string name="back">VOLTAR</string>
+    <string name="ad">Anúncio</string>
+    <string name="please_try_another_genre">Por favor, tente outra Categoria.</string>
+    <string name="try_searching_for_another_movie_show">Tente procurar por outro Filme, Série</string>
+    <string name="oh_darn_we_don_t_have_that">Lamentamos, não temos um programa com esse nome.</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="support">SUPORTE</string>
+    <string name="thank_you">OBRIGADO!</string>
+    <string name="the_transaction_was_successful">A Transação foi realizada com Sucesso!</string>
+    <string name="status">status</string>
+
+
+    <string name="AGREE">ACEITAR</string>
+    <string name="DISAGREE">DISCORDAR</string>
+
+    <!--Playback Speed copy-->
+    <string name="try_easyplex_vip">Assine Agora</string>
+    <string name="watch_video_ads_to_unlock">ASSISTA O ANÚNCIO PARA DESBLOQUEAR</string>
+    <string name="subscribe_now">ASSINE AGORA</string>
+    <string name="disable_player_ads">Prioridade em Pedidos no Discord</string>
+    <string name="turn_off_ads_banner_interstitial_ads">Desabilita o Anúncios no app. Sem Espera.</string>
+    <string name="play_premium_content_without_restrictions">Reproduzir Conteúdo Premium sem restrições</string>
+    <string name="download_premium_content">Download Conteúdo Premium </string>
+    <string name="vip_features">Com o Premium. Assista milhares de Séries e Filmes, com planos a partir de R$10,00/mês.</string>
+    <string name="custom_text_here">Texto Customizado</string>
+    <string name="update_message">Atualizar a Mensagem</string>
+    <string name="version_2_0">Versão 2.0</string>
+    <string name="update">Atualizar</string>
+
+    <!-- Change the following strings as required -->
+    <string name="subscribe">ASSINAR</string>
+    <string name="payment_failed_please_try_again">Pagamento Falhou – Por favor, Tente Novamente</string>
+    <string name="cancel_subscription">Cancelar Assinatura</string>
+
+    <!-- The title of a track selection view for audio tracks. [CHAR LIMIT=20] -->
+    <!-- The title of a track selection view for text (i.e. subtitle or caption) tracks. [CHAR LIMIT=20] -->
+    <string name="track_selection_title">Selecione as Trilhas</string>
+
+
+    <string name="cant_show">Não é possível mostrar o trailer</string>
+    <string name="continue_watching">Continuar Assistindo</string>
+    <string name="clear_watch_history">Limpar o Histórico de Assistidos</string>
+    <string name="media_route_menu_title">Elenco</string>
+    <string name="play_media_as_embed">Reproduzir Vídeo embutido</string>
+    <string name="audio">Media Options</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="navigation_drawer_open">Abrir o Menu do Navegador</string>
+    <string name="navigation_drawer_close">Fechar o Menu do Navegador</string>
+    <string name="suggestions">Sugestões</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="latest_channels">Últimos Canais</string>
+    <string name="downloads">Downloads</string>
+    <string name="if_you_re_having_audio_problems_enable_this_option">Se você está tendo problemas com o aúdio na reprodução, habilite essa opção para ampliar a extensão de suporte de aúdios.</string>
+    <string name="are_you_sure_to_delete_from_your_watching_history">Você tem certeza que quer excluir?</string>
+    <string name="report_broken_link">Reportar Link Quebrado</string>
+    <string name="movies">Filmes</string>
+    <string name="series">Séries</string>
+    <string name="animes">Animes</string>
+    <string name="version">EASYPLEX: %1$ss</string>
+    <string name="introducing_cast">Apresentando EasyPlex  Elenco</string>
+    <string name="sorry_this_content_is_only_available_for_easyplex_vip_users">Desculpe, este recurso é reservado somente ao nossos membros membros Premium. Entre em nosso discord e saiba mais! https://discord.gg/yZhgUh6qeh</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="about_app">Sobre o App</string>
+
+    <!-- Error messages -->
+    <!-- onApplicationConnectionFailed() errors -->
+    <string name="oops">Oops</string>
+
+    <!-- Preferences -->
+    <string name="prefs_header_application">Comportamento do aplicativo</string>
+    <string name="prefs_header_application_summary">Controle como o aplicativo se comporta na TV</string>
+    <string name="prefs_volume_title">Atribuição de Volume</string>
+    <string name="prefs_volume_title_summary">Controles %1$s</string>
+    <string name="prefs_volume_dialog_title">Atribuição de Volume</string>
+    <string name="prefs_volume_default">dispositivo</string>
+
+
+    <!-- Queue -->
+    <string name="show_queue">Mostrar Fila</string>
+    <string name="queue_list">Fila</string>
+    <string name="queue_tag_item">tag-da-fila</string>
+    <string name="play_now">Reproduzir Agora</string>
+    <string name="play_next">Reproduzir Próximo</string>
+    <string name="add_to_queue">Adicionar a Fila</string>
+    <string name="action_clear_queue">Limpar Fila</string>
+    <string name="queue_item_added_to_play_next">Um item foi adicionado para reproduzir</string>
+    <string name="queue_item_added_to_queue">Um item foi adicionado à Fila</string>
+    <string name="select_quality">Selecione a qualidade da fonte</string>
+    <string name="download_for">Download para </string>
+    <string name="has_started">foi iniciado…</string>
+
+
+    <!-- TAGS -->
+
+
+    <!-- ADS NETWORKS -->
+
+    <!-- Don't Change -->
+    <string name="startapp">StartApp</string>
+    <!-- Don't Change -->
+    <string name="unityads">UnityAds</string>
+    <!-- Don't Change -->
+    <string name="admob">Admob</string>
+    <!-- Don't Change -->
+    <string name="appodeal">Appodeal</string>
+    <!-- Don't Change -->
+    <string name="facebook">Facebook</string>
+    <!-- Don't Change -->
+    <string name="auto">Auto</string>
+
+
+    <string name="autoplay_on">Auto Reproduzir Ativado</string>
+    <string name="autoplay_off">Auto Reproduzir Desativado</string>
+    <string name="has_been_started">foi iniciado…</string>
+    <string name="unable_cast">Incapaz de conectar para transmitir</string>
+    <string name="ready_5sec">estará pronto em 5 segundos</string>
+    <string name="select_subs">Selecionar Legendas</string>
+    <string name="video_qualities">Qualidades do Vídeo</string>
+    <string name="aspect_ratio">Proporção da Tela</string>
+    <string name="current_aspect">Proporção Atual</string>
+
+
+    <!--Playback Menu titles-->
+    <string name="playback_setting_speed_title">Velocidade de Reprodução</string>
+
+    <!--Playback Speed copy-->
+    <string name="playback_speed_normal">Normal</string>
+
+
+    <string name="up_next">Próximo em : </string>
+    <string name="empty_queue">Fila vazia</string>
+    <string name="lecture">Informações</string>
+    <string name="vip">VIP</string>
+
+    <string name="are_you_sure_you_want_to_cancel_your_subscription">Tem certeza que quer cancelar sua assinatura?</string>
+    <string name="write_something">Escreva algo…</string>
+
+
+
+    <!-- ShowCaseView -->
+
+    <!-- Captions -->
+
+    <!-- Queue -->
+    <string name="mylist">Minha Lista</string>
+    <string name="plan_name">NOME</string>
+    <string name="player_default">padrão</string>
+    <string name="player_fullscreen">tela cheia</string>
+    <string name="player_room">Zoom</string>
+    <string name="restart">Restart</string>
+    <string name="source_quality">Selecione a Qualidade</string>
+    <string name="lists_movies">Lista de Filmes</string>
+    <string name="lists_series">Lista de Séries</string>
+    <string name="lists_animes">Lista de Animes</string>
+    <string name="lists_streaming">Lista de Streaming</string>
+    <string name="from_history">do seu histórico assistido?</string>
+    <string name="unable_to_get_genres">Não é possível obter listas de gêneros</string>
+    <string name="views">Views: </string>
+    <string name="app_name">EasyPlex</string>
+    <string name="skip_recap">PULAR RECAP</string>
+    <string name="resumes">Resume</string>
+    <string name="select_qualities">"Selecione a qualidade da fonte "</string>
+    <string name="speed_normal">Normal</string>
+    <string name="choose_your_launch_player">Escolha o seu player</string>
+    <string name="my_downloads">BAIXAR</string>
+    <string name="loading_rewards">Loading Reward</string>
+    <string name="resume">Resume</string>
+    <string name="not_found_series">The Series not found in our database !</string>
+    <string name="from_your_history">from your watching history ?</string>
+    <string name="sub_setting_clear_cache_start">Free up</string>
+    <string name="sub_setting_clear_cache_end">of space</string>
+    <string name="servers">Servers</string>
+    <string name="captions_built_in">Captions ( Built in )</string>
+    <string name="playback_speed">Playback Speed</string>
+    <string name="external_players">External Players</string>
+    <string name="forget">Esqueceu a senha ?</string>
+    <string name="latest_episodes">ÚLTIMOS EPISÓDIOS DA SÉRIE</string>
+    <string name="player_substitles">Legendas</string>
+    <string name="choose_downloads_options">Escolha as opções de download</string>
+    <string name="current_localtion">"Current location : "</string>
+    <string name="pinned">FIXADO</string>
+    <string name="grant">CONCEDER</string>
+    <string name="storage_warning">Storage access permission not given</string>
+    <string name="history_cleared">History has been cleared !</string>
+    <string name="nothing_selected">Nothing Selected</string>
+    <string name="need_storage_permission">\" needs storage permission to display file list\"</string>
+    <string name="new_episodes">NEW EPISODES</string>
+    <string name="successful_payment">Successful Payment</string>
+    <string name="please_press_to_close_this_page">Please Press to close this page</string>
+    <string name="networks">Networks</string>
+    <string name="networks_list_is_empty">Networks List is empty</string>
+    <string name="actress">Atriz</string>
+    <string name="actor">Ator</string>
+    <string name="suggest_success">Your Suggestions has been submitted successfully</string>
+    <string name="yobex">https://codecanyon.net/user/yobex</string>
+    <string name="play_something">Play Something</string>
+    <string name="vpn_message">You are using vpn turn it off to countinue ... !</string>
+    <string name="sniffer_message">You Cannot Run Any Sniffer when the app is running !</string>
+    <string name="pay_with_razorpay">Pay With RazorPay</string>
+    <string name="pay_with_pagseguro">Pay With PagSeguro</string>
+    <string name="by_tapping_the_button_you_agree_to_easyplex_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to EasyPlex Term & Condition and Privacy Policy.]]></string>
+    <string name="login_to_subscribe">Login First to be able to subscribe</string>
+    <string name="check_your_inbox">Check your inbox</string>
+    <string name="resend_token">Resend Token</string>
+    <string name="your_email_is_not_verified">Your Email is not verified !</string>
+    <string name="verify_email_address">Verify Email Address</string>
+    <string name="suggestions_is_only_for_logged_users">Suggestions is only for Logged users</string>
+    <string name="popular_casters">POPULAR CASTERS</string>
+    <string name="casters">Casters</string>
+    <string name="watch_live_streaming">Watch Live Streaming</string>
+    <string name="rooted_message">You cannot run the app on a rooted device !</string>
+    <string name="download_disabled">Download system is currently disabled</string>
+    <string name="all_genres">All Genres</string>
+    <string name="latest_added">Latest Added</string>
+    <string name="by_year">By Year</string>
+    <string name="by_views">By Views</string>
+    <string name="cannot_extract">Cannot Extract the video from the media</string>
+    <string name="root_warning">You cannot run the app on a rooted device !</string>
+    <string name="by_rating">Por classificação</string>
+    <string name="latest_episodes_animes">"ÚLTIMOS EPISÓDIOS DE ANIMES "</string>
+    <string name="sponsored">Patrocinadas</string>
+    <string name="cannot_load_subs">Cannot Load Substitles ...</string>
+    <string name="free_episodes">Free Episodes</string>
+    <string name="from_your_lists">from your Lists ?</string>
+    <string name="enable_ffmpeg_extension">Enable FFmpeg extension</string>
+    <string name="enable_software_codec">Enable software codec</string>
+    <string name="download_location">Download Location</string>
+    <string name="current_location">Current location :</string>
+    <string name="substitles_background">Substitles Background</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="send_reset_token">Send Reset Token</string>
+    <string name="msg_to_confirm">Check your inbox or spam folders , you can click restart when you complete the confirmation !</string>
+    <string name="search_results">\"Search Results \"</string>
+    <string name="exit_the_app">Press again to exit app</string>
+    <string name="access_code">Wrong Access Code</string>
+    <string name="completed_download_message_fragment">This is where you\'ll see the shows and movies we download for your. Check back later to see what we\'ve found</string>
+    <string name="queue_download_message_fragment">This is where you\'ll see the shows and movies in queue mode. try to add some download and Check back later to see what we\'ve found</string>
+    <string name="queue_is_empty">Queue is empty !</string>
+    <string name="completed_is_empty">Completed is empty</string>
+    <string name="non_verified">- Non Verified</string>
+    <string name="verified">- Verified</string>
+    <string name="rest_confirmation_mail">\"A reset confirmation email sent to \"</string>
+    <string name="episode">Episode</string>
+</resources>

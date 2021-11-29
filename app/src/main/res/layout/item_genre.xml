@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout>
+
+
+        <LinearLayout
+            android:id="@+id/rootLayout"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+                <com.beeecorptv.util.GridItemImageView
+                    android:id="@+id/item_movie_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/pixel_200dp"
+                    android:scaleType="centerCrop"
+                    />
+
+
+        </LinearLayout>
+
+</layout>

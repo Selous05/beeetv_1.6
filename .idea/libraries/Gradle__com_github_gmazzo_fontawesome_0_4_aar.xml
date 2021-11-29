@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.gmazzo:fontawesome:0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6295f797a1dc966e3a8257d55f77717/transformed/jetified-fontawesome-0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6295f797a1dc966e3a8257d55f77717/transformed/jetified-fontawesome-0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f6295f797a1dc966e3a8257d55f77717/transformed/jetified-fontawesome-0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gmazzo/fontawesome/0.4/91552b67044c9a1837092b435633b7327e96f72c/fontawesome-0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gmazzo/fontawesome/0.4/91552b67044c9a1837092b435633b7327e96f72c/fontawesome-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:ogury:2.10.1.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae08a94c432511b4df69c1c36a608c24/transformed/jetified-ogury-2.10.1.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6cbce68d6304bec7f147f84e0c47707/transformed/jetified-ogury-2.10.1.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8ee0de87416209732cbcd91432fb5779/transformed/jetified-ogury-2.10.1.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8ee0de87416209732cbcd91432fb5779/transformed/jetified-ogury-2.10.1.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8ee0de87416209732cbcd91432fb5779/transformed/jetified-ogury-2.10.1.8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

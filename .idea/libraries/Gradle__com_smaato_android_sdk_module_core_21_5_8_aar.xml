@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smaato.android.sdk:module-core:21.5.8@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/acc9a3211b2ffbf8e53e35ef1f9d69c9/transformed/jetified-module-core-21.5.8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/acc9a3211b2ffbf8e53e35ef1f9d69c9/transformed/jetified-module-core-21.5.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/acc9a3211b2ffbf8e53e35ef1f9d69c9/transformed/jetified-module-core-21.5.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/acc9a3211b2ffbf8e53e35ef1f9d69c9/transformed/jetified-module-core-21.5.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.smaato.android.sdk/module-core/21.5.8/b281b28d4c8bbcf0f7fe676741aa6e7db9ef69d/module-core-21.5.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appnext.sdk:banners:2.6.4.473@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a34b25f26213e0a0bdd6db23318e7392/transformed/jetified-banners-2.6.4.473/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a34b25f26213e0a0bdd6db23318e7392/transformed/jetified-banners-2.6.4.473/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a34b25f26213e0a0bdd6db23318e7392/transformed/jetified-banners-2.6.4.473/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.services:crash_hunter:2.10.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b3a8b4f6c4f0d6fa6a717fbd8919656/transformed/jetified-crash_hunter-2.10.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cc3ed72582d276668438b3e78d97a23b/transformed/jetified-crash_hunter-2.10.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/17cfa8a6ae996d822fc48d258edfa57a/transformed/jetified-crash_hunter-2.10.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/17cfa8a6ae996d822fc48d258edfa57a/transformed/jetified-crash_hunter-2.10.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/17cfa8a6ae996d822fc48d258edfa57a/transformed/jetified-crash_hunter-2.10.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

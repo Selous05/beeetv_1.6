@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:admob:2.10.1.12@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0622aaee91ea2085f076303713178336/transformed/jetified-admob-2.10.1.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cbb65a25224f5bd014437ba71c62508b/transformed/jetified-admob-2.10.1.12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/237b085e5128f50553341a1e2590ab65/transformed/jetified-admob-2.10.1.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/237b085e5128f50553341a1e2590ab65/transformed/jetified-admob-2.10.1.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/237b085e5128f50553341a1e2590ab65/transformed/jetified-admob-2.10.1.12/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:nast:2.10.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48ef33695b4d70589b03d1971116f328/transformed/jetified-nast-2.10.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/85f36d0151d0e64a6c2adc1fd4dd6643/transformed/jetified-nast-2.10.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad1b814325d051a4d84b6c28943469c8/transformed/jetified-nast-2.10.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad1b814325d051a4d84b6c28943469c8/transformed/jetified-nast-2.10.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad1b814325d051a4d84b6c28943469c8/transformed/jetified-nast-2.10.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

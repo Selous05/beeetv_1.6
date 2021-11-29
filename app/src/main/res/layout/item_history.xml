@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/rootLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="5dp"
+        android:clipToPadding="false"
+        >
+
+        <!-- The support CardView adds padding for compat shadows on pre-v21, adjust accordingly. -->
+        <FrameLayout
+            android:id="@+id/cardView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/item_recommended_shadow"
+                android:innerRadius="5dp"
+                android:layout_marginBottom="-10dp"
+                app:cardCornerRadius="10dp"
+                android:shape="ring"
+                android:thicknessRatio="5">
+
+            <ImageView
+                android:id="@+id/itemMovieImage"
+                android:layout_width="250dp"
+                android:layout_height="150dp"
+                android:scaleType="centerCrop"
+
+                />
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="150dp"
+                android:background="@drawable/fragment_shadows_top"
+                android:scaleType="centerCrop"
+
+                />
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="150dp"
+                android:background="@drawable/item_recommended_shadow"
+                android:scaleType="centerCrop"
+
+                />
+
+            <ProgressBar
+                android:id="@+id/resume_progress_bar"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="250dp"
+                android:layout_height="2dp"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="10dp"
+                android:indeterminate="false"
+                android:progressDrawable="@drawable/content_detail_progress" />
+
+
+            <LinearLayout
+                android:id="@+id/lineaTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="start"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="bottom"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/timeRemaning"
+                    android:gravity="center"
+                    android:background="@drawable/view_bg"
+                    android:paddingStart="7dp"
+                    android:paddingEnd="7dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_margin="@dimen/spacing_middle"
+                    android:text="87m"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginBottom="3dp"
+                    android:layout_width="wrap_content"
+                    app:layout_constraintLeft_toRightOf="@+id/eptitle"
+                    android:layout_height="18dp"
+                    style="@style/H100"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="start"
+                android:layout_gravity="right"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/deleteFromHistory"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_margin="@dimen/spacing_middle"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/image"
+                    app:srcCompat="@drawable/ic_delete"
+                    app:tint="@color/white" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_marginBottom="10dp"
+                android:gravity="bottom"
+                android:layout_gravity="bottom|end"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/infoHistory"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_margin="@dimen/spacing_middle"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/image"
+                    app:srcCompat="@drawable/ic_text_fields"
+                    app:tint="@color/white" />
+
+            </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+        </FrameLayout>
+
+
+
+        <TextView
+            android:id="@+id/movietitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="10dp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textStyle="bold"
+            android:maxLength="40"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@color/grey_20"
+            android:textSize="10sp"
+            android:fontFamily="@font/vaud_light"
+            app:layout_constraintTop_toBottomOf="@id/cardView"
+            app:layout_constraintLeft_toLeftOf="parent"
+            tools:text="Movie Title" />
+
+
+        <RatingBar
+            android:id="@+id/rating_bar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:numStars="5"
+            android:rating="4.0"
+            android:scaleX=".9"
+            android:scaleY=".9"
+            android:layout_marginTop="5dp"
+            app:layout_constraintEnd_toStartOf="@id/view_movie_rating"
+            app:layout_constraintTop_toBottomOf="@id/movietitle"
+            android:stepSize="0.1"
+            />
+
+
+        <TextView
+            android:id="@+id/view_movie_rating"
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:layout_gravity="end"
+            android:layout_marginStart="136dp"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/vaud_light"
+            android:gravity="center"
+            android:paddingStart="7dp"
+            android:paddingEnd="7dp"
+            android:text="@string/movie_rating"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            app:layout_constraintStart_toEndOf="@+id/rating_bar"
+            app:layout_constraintTop_toBottomOf="@id/movietitle"
+
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

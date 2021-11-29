@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.explorestack:consent-models:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a618ee3aa19e47c1518ca83b9fcbb96d/transformed/jetified-consent-models-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f43ced04c2ef232715464f0110f7447b/transformed/jetified-consent-models-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/712abd0453d4a585c1a9b7b79430c1d1/transformed/jetified-consent-models-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/712abd0453d4a585c1a9b7b79430c1d1/transformed/jetified-consent-models-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/712abd0453d4a585c1a9b7b79430c1d1/transformed/jetified-consent-models-1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

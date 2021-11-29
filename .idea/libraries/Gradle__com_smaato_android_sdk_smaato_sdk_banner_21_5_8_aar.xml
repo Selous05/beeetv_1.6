@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smaato.android.sdk:smaato-sdk-banner:21.5.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7821f5e39df866d3223e921d0f15e810/transformed/jetified-smaato-sdk-banner-21.5.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e36a09ef4977b58b2caa81fc8ae37365/transformed/jetified-smaato-sdk-banner-21.5.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4ab4dbee14f64ca68063ccae1a6eeb93/transformed/jetified-smaato-sdk-banner-21.5.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4ab4dbee14f64ca68063ccae1a6eeb93/transformed/jetified-smaato-sdk-banner-21.5.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4ab4dbee14f64ca68063ccae1a6eeb93/transformed/jetified-smaato-sdk-banner-21.5.8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.smaato.android.sdk/smaato-sdk-banner/21.5.8/43193f858f1f8fd97e33133f042303ea98a16d39/smaato-sdk-banner-21.5.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

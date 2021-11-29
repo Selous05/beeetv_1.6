@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.acra:acra-mail:5.8.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/339e6157ee99ebdaa4008a4f1030a9e2/transformed/jetified-acra-mail-5.8.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d9122ea5a36ddb987625a691d7911fc/transformed/jetified-acra-mail-5.8.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bffde3dbe6fcae0530730fa0b8bf6c2c/transformed/jetified-acra-mail-5.8.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bffde3dbe6fcae0530730fa0b8bf6c2c/transformed/jetified-acra-mail-5.8.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bffde3dbe6fcae0530730fa0b8bf6c2c/transformed/jetified-acra-mail-5.8.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra-mail/5.8.4/2af6820924eadd8e8121312aec94eb34848b4fb3/acra-mail-5.8.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra-mail/5.8.4/daf8379e1006e73ab860374e571b9ced27e7282d/acra-mail-5.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

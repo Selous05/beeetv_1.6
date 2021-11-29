@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.airbnb:deeplinkdispatch-base:5.4.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/deeplinkdispatch-base/5.4.3/952fa5b5d578910a596ce4f35933494e4a468fe0/deeplinkdispatch-base-5.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/deeplinkdispatch-base/5.4.3/399138dc0a349faa49dc134d35e4fb1c0941ce27/deeplinkdispatch-base-5.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/deeplinkdispatch-base/5.4.3/55b9369fba23c8e2812b2fe75ffd934a5243cc78/deeplinkdispatch-base-5.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smaato.android.sdk:smaato-sdk-base:21.5.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d38bfa46b95110a5125fe50180aa44a/transformed/jetified-smaato-sdk-base-21.5.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea9dddd83dfe9b79cf5edcf3f226594e/transformed/jetified-smaato-sdk-base-21.5.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0ed2b7b8d5b4442992cc201261b3f244/transformed/jetified-smaato-sdk-base-21.5.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0ed2b7b8d5b4442992cc201261b3f244/transformed/jetified-smaato-sdk-base-21.5.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0ed2b7b8d5b4442992cc201261b3f244/transformed/jetified-smaato-sdk-base-21.5.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

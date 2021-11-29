@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691992077344",
+    "project_id": "bee-e-tv",
+    "storage_bucket": "bee-e-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691992077344:android:ff9889aa84102549a30845",
+        "android_client_info": {
+          "package_name": "com.beeecorptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691992077344-63kp82td2pmqrr81q556flv4so8ffelf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzCzuXtgKaKr4MJUJaNKj1Kk8wKPCqSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691992077344-63kp82td2pmqrr81q556flv4so8ffelf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7555109727728462~5592341793"
+    }
+  ],
+  "configuration_version": "1"
+}

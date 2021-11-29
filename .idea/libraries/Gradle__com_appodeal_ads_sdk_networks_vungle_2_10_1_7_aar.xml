@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:vungle:2.10.1.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dbff57df09434a6451f8979047e467e9/transformed/jetified-vungle-2.10.1.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10cb1d73f22c8b1707b44800ceb4799e/transformed/jetified-vungle-2.10.1.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cee56ed0a7089e09a7c0f697a256e4b7/transformed/jetified-vungle-2.10.1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cee56ed0a7089e09a7c0f697a256e4b7/transformed/jetified-vungle-2.10.1.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cee56ed0a7089e09a7c0f697a256e4b7/transformed/jetified-vungle-2.10.1.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

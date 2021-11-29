@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bottomnavigationbgcolor"
+    android:layout_below="@id/toolbar"
+    tools:context="com.beeecorptv.ui.downloadmanager.ui.main.DownloadManagerFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/download_list_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:tabGravity="fill"
+            app:tabIndicatorColor="@color/main_color"
+            app:tabIndicatorHeight="3dp"
+            app:tabMode="fixed"
+            app:tabSelectedTextColor="@color/golden_gate"
+            app:tabTextAppearance="@style/TextAppearance.Design.Tab"
+            app:tabTextColor="@color/grey_20"  />
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/download_list_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/download_list_tabs"
+            android:background="?attr/background"
+            android:nextFocusDown="@id/add_fab" />
+    </RelativeLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/add_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/ic_add_black_24dp"
+        android:focusable="true"
+        android:visibility="gone"
+        android:contentDescription="@string/add" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

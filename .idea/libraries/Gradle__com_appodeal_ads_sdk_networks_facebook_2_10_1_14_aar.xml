@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:facebook:2.10.1.14@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ce99815317abefa1b1a16c4d75bc14a1/transformed/jetified-facebook-2.10.1.14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea90cab9fb863f0e25c566d4e64f645a/transformed/jetified-facebook-2.10.1.14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7c2f0b2ec4dad93467ca963118bbf867/transformed/jetified-facebook-2.10.1.14/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7c2f0b2ec4dad93467ca963118bbf867/transformed/jetified-facebook-2.10.1.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7c2f0b2ec4dad93467ca963118bbf867/transformed/jetified-facebook-2.10.1.14/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

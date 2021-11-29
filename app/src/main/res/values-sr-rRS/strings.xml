@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+    <string name="app_name">EasyPlex</string>
+    <string name="choosed_for_you">Choosed For You</string>
+    <string name="skip_recap">PRESKOČI UVOD</string>
+    <string name="resumes">Resume</string>
+    <!-- Movie Details -->
+    <string name="movie_original_label">Movie Title</string>
+    <string name="movie_release_label">Release Date</string>
+    <string name="movie_genres_text">Thriller, Action, Sci Fi </string>
+    <string name="movie_overview_label">Opis</string>
+    <string name="movie_overview_text">A ten year old girl who wanders away from her parents along a path that leads to a
+        world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others
+        inside a bathhouse full of these creatures. Will she ever see the world how it once was?</string>
+    <string name="movie_cast_label">U glavnim ulogama</string>
+
+    <!-- Retry -->
+    <string name="home">POČETNA</string>
+
+    <!-- App Strings  -->
+    <string name="discover">ISTRAŽI</string>
+    <string name="library">VIDEO KLUB</string>
+    <string name="upcoming">USKORO</string>
+    <string name="streaming">TV KANALI</string>
+    <string name="live_text">UŽIVO</string>
+    <string name="share_msg">Zdravo, želeo bih da podelim sa vama ovaj medijski poziv </string>
+    <string name="about_wifi_warning">Odabrali ste reprodukciju samo na Wi-Fi mreži. Idite na Podešavanja aplikacije da biste promenili.</string>
+    <string name="about_no_stream_download">Za ovaj film nije dostupno preuzimanje. Proverite kasnije.</string>
+    <string name="about_no_stream_download_episode">Za ovu epizodu nije dostupno preuzimanje. Proverite kasnije.</string>
+    <string name="about_no_stream">Nije dostupan tok za ovaj film. Proverite kasnije.</string>
+    <string name="ep_n">EP N</string>
+    <string name="about_error_login">Pogrešni podaci za prijavu. Pokušajte ponovo.</string>
+    <string name="err_email">Adresa e-pošte mora biti važeća.</string>
+    <string name="err_name">Polje sa imenom je obavezno.</string>
+    <string name="err_password">Lozinka mora imati najmanje 6 znakova.</string>
+    <string name="commercial">Reklama</string>
+    <string name="movies_amp_series"><![CDATA[FILMOVI & SERIJE]]></string>
+    <string name="settings">PODEŠAVANJA</string>
+    <string name="title">Naslov</string>
+    <string name="genre">Žanr</string>
+    <string name="play_trailer">Pokreni trejler</string>
+    <string name="release_date">DATUM IZLASKA</string>
+    <string name="synopsis">Opis</string>
+    <string name="details">Detalji</string>
+    <string name="starring">U glavnoj ulozi</string>
+    <string name="seasons">Sezone</string>
+    <string name="search_movies_series">Pretražite filmove, serije, tv kanale ...</string>
+    <string name="no_relateds_movies_found">Nisu pronađeni povezani sadržaji</string>
+    <string name="no_list_result">Dodajte filmove i TV serije na listu</string>
+    <string name="list_add_later">tako da ih možete lako pronaći kasnije</string>
+    <string name="premuim">Premuim</string>
+    <string name="already_have_an_account">Već imate račun?</string>
+    <string name="password">Lozinka</string>
+    <string name="email">Email adresa</string>
+    <string name="name">Ime</string>
+    <string name="register">R E G I S T R A C I J A</string>
+    <string name="update_profile">A Ž U R I R A J</string>
+    <string name="copyright">Autorsko pravo © 2021 EASYPLEX.</string>
+    <string name="image">Slika</string>
+    <string name="start_watching">Započni sa gledanjem</string>
+    <string name="register_sucess">Registracija uspešna!</string>
+    <string name="suggested_programmes">Preporučen sadržaj</string>
+    <string name="recommended_for_you">PREPORUČENO ZA TEBE</string>
+    <string name="streaming_home">STREAMING</string>
+    <string name="trending_now">U TRENDU</string>
+    <string name="new_releases">PREMIJERE</string>
+    <string name="popular_series">POPULARNE SERIJE</string>
+    <string name="latest_series">PREMIJERE SERIJA</string>
+    <string name="new_this_week">NOVO OVE SEDMICE</string>
+    <string name="latest_animes">NOVO KIDS</string>
+    <string name="most_popular">Veoma popularno</string>
+    <string name="free">Besplatno</string>
+    <string name="allow_notifications">Dozvoli obaveštenja</string>
+    <string name="wi_fi_only">Reprodukcija samo na Wi-Fi mreži</string>
+    <string name="auto_play">Automatska reprodukcija</string>
+    <string name="substitle_size">Veličina prevoda</string>
+    <string name="current_size">Trenutna veličina</string>
+    <string name="current_background">Trenutna boja</string>
+    <string name="clear_my_list">Obriši moju listu</string>
+    <string name="clear_history">Da li stvarno želite da obrišete istoriju?</string>
+    <string name="clear_cache_msg">Ovo će izbrisati keširane podatke za ovu aplikaciju!</string>
+    <string name="clear_cache">Obriši predmemoriju</string>
+    <string name="about_us">PODRŠKA</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="trailer_loading">Učitavanje trejlera</string>
+    <string name="genres_list_is_empty">Lista žanrova je prazna</string>
+    <string name="episodes">Epizode</string>
+    <string name="next_episode">Sledeća epizoda</string>
+    <string name="check_later">Proveri kasnije</string>
+    <string name="privacy_amp_policy"><![CDATA[Uslovi korištenja]]></string>
+    <string name="decilne">NE PRIHVATAM</string>
+    <string name="accept">PRIHVATI</string>
+    <string name="relateds">Povezano</string>
+    <string name="substitles">Prevodi</string>
+    <string name="login">P R I J A V A</string>
+    <string name="skip">NASTAVI BEZ PRIJAVE</string>
+    <string name="signup">REGISTRACIJA RAČUNA</string>
+    <string name="no_upcoming_movies_added">Nema nadolazećih naslova</string>
+    <string name="no_download_movies_added">Nije dodato nijedno preuzimanje</string>
+    <string name="this_content_if_only_for_vip">Ovaj sadržaj je dostupan samo ukoliko imate pretplatu.</string>
+    <string name="sorry">UPOZORENJE !</string>
+    <string name="back">NAZAD</string>
+    <string name="ad">Reklama</string>
+    <string name="please_try_another_genre">Pokušajte sa drugim žanrom.</string>
+    <string name="try_searching_for_another_movie_show">Pokušajte da potražite drugi film, emisiju</string>
+    <string name="oh_darn_we_don_t_have_that">Žao nam je. Mi to nemamo, napišite nam sugestiju za traženi sadržaj.</string>
+    <string name="edit_profile">Uredi profil</string>
+    <string name="support">PODRŠKA</string>
+    <string name="thank_you">Hvala Vam!</string>
+    <string name="the_transaction_was_successful">Transakcija je uspešna!</string>
+    <string name="status">Status</string>
+
+
+    <string name="AGREE">PRIHVATAM</string>
+    <string name="DISAGREE">NE PRIHVATAM</string>
+
+    <!--Playback Speed copy-->
+    <string name="try_easyplex_vip">Uz pretplatu više opcija</string>
+    <string name="watch_video_ads_to_unlock">POGLEDAJ REKLAMU DA OTKLJUČAŠ</string>
+    <string name="subscribe_now">PRETPLATI SE</string>
+    <string name="disable_player_ads">Gledaj bez reklama</string>
+    <string name="turn_off_ads_banner_interstitial_ads">Gledaj na do 5 uređaja u isto vreme</string>
+    <string name="play_premium_content_without_restrictions">Gledaj premium sadržaj bez ograničenja</string>
+    <string name="download_premium_content">Preuzimanje sadržaja</string>
+    <string name="vip_features">Sa pretplatom gledaj neograničen broj filmova, serija i preko 230 TV kanala. Pretplata iznosi već od 1.00 €</string>
+    <string name="custom_text_here">Custom Text Here</string>
+    <string name="update_message">update message</string>
+    <string name="version_2_0">Version 2.0</string>
+    <string name="update">Ažuriraj</string>
+
+    <!-- Change the following strings as required -->
+    <string name="subscribe">PRETPLATI SE</string>
+    <string name="payment_failed_please_try_again">Plaćanje nije uspešno! Pokušajte ponovo.</string>
+    <string name="cancel_subscription">Otkaži pretplatu</string>
+
+    <!-- The title of a track selection view for audio tracks. [CHAR LIMIT=20] -->
+    <!-- The title of a track selection view for text (i.e. subtitle or caption) tracks. [CHAR LIMIT=20] -->
+    <string name="track_selection_title">Izaberite numere</string>
+
+
+    <string name="cant_show">Nije moguće prikazati reklamu</string>
+    <string name="continue_watching">Nastavi sa gledanjem</string>
+    <string name="clear_watch_history">Obriši istoriju gledanja</string>
+    <string name="media_route_menu_title">Cast</string>
+    <string name="play_media_as_embed">Reprodukujte medije kao ugrađene</string>
+    <string name="audio">Media Options</string>
+    <string name="sort_by">Sortiraj po</string>
+    <string name="navigation_drawer_open">Otvorite fioku za navigaciju</string>
+    <string name="navigation_drawer_close">Zatvorite fioku za navigaciju</string>
+    <string name="suggestions">PREDLOZI</string>
+    <string name="privacy_policy">USLOVI KORIŠTENJA</string>
+    <string name="latest_channels">Popularni TV kanali</string>
+    <string name="downloads">PREUZIMANJA</string>
+    <string name="if_you_re_having_audio_problems_enable_this_option">Ako imate problema sa zvukom, omogućite ovu opciju da podržava još audio dodataka.</string>
+    <string name="are_you_sure_to_delete_from_your_watching_history">Da li ste sigurni da želite da izbrišete?</string>
+    <string name="report_broken_link">Prijavi neispravan sadržaj</string>
+    <string name="movies">Filmovi</string>
+    <string name="series">Serije</string>
+    <string name="animes">Kids</string>
+    <string name="version">EASYPLEX: %1$s</string>
+    <string name="introducing_cast">Predstavljamo vam EasyPlex Cast</string>
+    <string name="sorry_this_content_is_only_available_for_easyplex_vip_users">Za reprodukciju ovog sadržaja potrebno je imati aktivnu pretplatu.</string>
+
+    <string name="action_settings">Podešavanja</string>
+    <string name="ok">OK</string>
+    <string name="error">Greška</string>
+    <string name="about_app">O EasyPlex</string>
+
+    <!-- Error messages -->
+    <!-- onApplicationConnectionFailed() errors -->
+    <string name="oops">Oops</string>
+
+    <!-- Preferences -->
+    <string name="prefs_header_application">Ponašanje aplikacije</string>
+    <string name="prefs_header_application_summary">Kontrolišite kako će se aplikacija ponašati na televizoru
+    </string>
+    <string name="prefs_volume_title">Volume Assignment</string>
+    <string name="prefs_volume_title_summary">Kontrole %1$s</string>
+    <string name="prefs_volume_dialog_title">Volume Assignment</string>
+    <string name="prefs_volume_default">uređaj</string>
+
+
+    <!-- Queue -->
+    <string name="show_queue">Prikaži red čekanja</string>
+    <string name="queue_list">Red čekanja</string>
+    <string name="queue_tag_item">queue-tag-item</string>
+    <string name="play_now">Gledaj odmah</string>
+    <string name="play_next">Pokreni sledeće</string>
+    <string name="add_to_queue">Dodaj u red čekanja</string>
+    <string name="action_clear_queue">Izbriši listu čekanja</string>
+    <string name="queue_item_added_to_play_next">Stavka je dodata za sledeću reprodukciju</string>
+    <string name="queue_item_added_to_queue">Stavka je dodata u red čekanja</string>
+    <string name="select_quality">Izaberite kvalitet izvora</string>
+    <string name="download_for">Preuzmanje </string>
+    <string name="has_started"> je pokrenuto ...</string>
+
+
+
+
+
+    <!-- ADS NETWORKS -->
+
+    <!-- Don't Change -->
+    <string name="startapp">StartApp</string>
+    <!-- Don't Change -->
+    <string name="unityads">UnityAds</string>
+    <!-- Don't Change -->
+    <string name="admob">Admob</string>
+    <!-- Don't Change -->
+    <string name="appodeal">Appodeal</string>
+    <!-- Don't Change -->
+    <string name="facebook">Facebook</string>
+    <!-- Don't Change -->
+    <string name="auto">Auto</string>
+
+
+    <string name="autoplay_on">Automatska reprodukcija uključena</string>
+    <string name="autoplay_off">Automatska reprodukcija isključena</string>
+    <string name="has_been_started"> je pokrenuto ...</string>
+    <string name="unable_cast">Nije moguće povezati se za emitiranje</string>
+    <string name="ready_5sec"> biće spremno za 5 sek</string>
+    <string name="select_subs">Izaberite prevod</string>
+    <string name="video_qualities">Rezolucija</string>
+    <string name="aspect_ratio">Odnos širine i visine</string>
+    <string name="current_aspect">Trenutni odnos širine i visine</string>
+
+
+    <!--Playback Menu titles-->
+    <string name="playback_setting_speed_title">Brzina reprodukcije</string>
+
+    <!--Playback Speed copy-->
+    <string name="playback_speed_normal">Normalno</string>
+
+
+    <string name="up_next">Sledi za : </string>
+    <string name="empty_queue">Empty Queue</string>
+    <string name="lecture">Gledaj odmah</string>
+    <string name="vip">VIP</string>
+
+    <string name="are_you_sure_you_want_to_cancel_your_subscription">Da li ste sigurni da želite otkazati pretplatu?</string>
+    <string name="write_something">Napišite sugestiju …</string>
+
+
+
+    <!-- ShowCaseView -->
+
+    <!-- Captions -->
+
+    <!-- Queue -->
+    <string name="mylist">Moja lista</string>
+    <string name="plan_name">NAME</string>
+    <string name="player_fullscreen">Celi ekran</string>
+    <string name="player_room">Zumiraj</string>
+    <string name="restart">Resetuj</string>
+    <string name="source_quality">Izaberite kvalitet izvora</string>
+    <string name="lists_movies">Liste filmova</string>
+    <string name="lists_series">Liste serija</string>
+    <string name="lists_animes">Liste kids</string>
+    <string name="lists_streaming">Liste tv kanala</string>
+    <string name="from_history">iz vaše istorije gledanja?</string>
+    <string name="unable_to_get_genres">Nije moguće dobiti liste žanrova</string>
+    <string name="views">pregleda: </string>
+    <string name="select_qualities">Izaberite Kvalitet izvora</string>
+    <string name="speed_normal">Normal</string>
+    <string name="choose_your_launch_player">Izaberite player za reprodukciju</string>
+    <string name="my_downloads">DOWNLOADS</string>
+    <string name="loading_rewards">Loading Reward</string>
+    <string name="resume">Resume</string>
+    <string name="not_found_series">The Series not found in our database !</string>
+    <string name="from_your_history">from your watching history ?</string>
+    <string name="sub_setting_clear_cache_start">Free up</string>
+    <string name="sub_setting_clear_cache_end">of space</string>
+    <string name="servers">SERVERI</string>
+    <string name="captions_built_in">Prevodi (Ugrađeni)</string>
+    <string name="playback_speed">Playback Speed</string>
+    <string name="external_players">External Players</string>
+    <string name="forget">Zaboravljena lozinka ?</string>
+    <string name="player_substitles">Prevodi</string>
+    <string name="choose_downloads_options">Choose Downloads Options</string>
+    <string name="current_localtion">"Current location : "</string>
+    <string name="pinned">PINNED</string>
+    <string name="grant">GRANT</string>
+    <string name="storage_warning">Storage access permission not given</string>
+    <string name="history_cleared">History has been cleared !</string>
+    <string name="nothing_selected">Nothing Selected</string>
+    <string name="need_storage_permission">\" needs storage permission to display file list\"</string>
+    <string name="new_episodes">NEW EPISODES</string>
+    <string name="successful_payment">Successful Payment</string>
+    <string name="please_press_to_close_this_page">Please Press to close this page</string>
+    <string name="networks">Networks</string>
+    <string name="networks_list_is_empty">Networks List is empty</string>
+    <string name="actress">Actress</string>
+    <string name="actor">Actor</string>
+    <string name="suggest_success">Your Suggestions has been submitted successfully</string>
+    <string name="yobex">https://codecanyon.net/user/yobex</string>
+    <string name="play_something">Play Something</string>
+    <string name="vpn_message">You are using vpn turn it off to countinue ... !</string>
+    <string name="sniffer_message">You Cannot Run Any Sniffer when the app is running !</string>
+    <string name="pay_with_razorpay">Pay With RazorPay</string>
+    <string name="pay_with_pagseguro">Pay With PagSeguro</string>
+    <string name="by_tapping_the_button_you_agree_to_easyplex_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to EasyPlex Term & Condition and Privacy Policy.]]></string>
+    <string name="login_to_subscribe">Login First to be able to subscribe</string>
+    <string name="check_your_inbox">Check your inbox</string>
+    <string name="resend_token">Resend Token</string>
+    <string name="your_email_is_not_verified">Your Email is not verified !</string>
+    <string name="verify_email_address">Verify Email Address</string>
+    <string name="suggestions_is_only_for_logged_users">Suggestions is only for Logged users</string>
+    <string name="popular_casters">POPULAR CASTERS</string>
+    <string name="casters">Casters</string>
+    <string name="watch_live_streaming">Watch Live Streaming</string>
+    <string name="rooted_message">You cannot run the app on a rooted device !</string>
+    <string name="download_disabled">Download system is currently disabled</string>
+    <string name="all_genres">All Genres</string>
+    <string name="latest_added">Latest Added</string>
+    <string name="by_year">By Year</string>
+    <string name="by_views">By Views</string>
+    <string name="cannot_extract">Cannot Extract the video from the media</string>
+    <string name="root_warning">You cannot run the app on a rooted device !</string>
+    <string name="player_default" translatable="false">default</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="cannot_load_subs">Cannot Load Substitles ...</string>
+    <string name="free_episodes">Free Episodes</string>
+    <string name="from_your_lists">from your Lists ?</string>
+    <string name="enable_ffmpeg_extension">Enable FFmpeg extension</string>
+    <string name="enable_software_codec">Enable software codec</string>
+    <string name="download_location">Download Location</string>
+    <string name="current_location">Current location :</string>
+    <string name="substitles_background">Substitles Background</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="send_reset_token">Send Reset Token</string>
+    <string name="msg_to_confirm">Check your inbox or spam folders , you can click restart when you complete the confirmation !</string>
+    <string name="search_results">\"Search Results \"</string>
+    <string name="exit_the_app">Press again to exit app</string>
+    <string name="access_code">Wrong Access Code</string>
+    <string name="completed_download_message_fragment">This is where you\'ll see the shows and movies we download for your. Check back later to see what we\'ve found</string>
+    <string name="queue_download_message_fragment">This is where you\'ll see the shows and movies in queue mode. try to add some download and Check back later to see what we\'ve found</string>
+    <string name="queue_is_empty">Queue is empty !</string>
+    <string name="completed_is_empty">Completed is empty</string>
+    <string name="non_verified">- Non Verified</string>
+    <string name="verified">- Verified</string>
+    <string name="rest_confirmation_mail">\"A reset confirmation email sent to \"</string>
+    <string name="episode">Episode</string>
+
+</resources>

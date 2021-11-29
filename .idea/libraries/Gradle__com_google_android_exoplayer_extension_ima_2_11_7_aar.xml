@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:extension-ima:2.11.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/032c07654511aadac5670842b0da8395/transformed/jetified-extension-ima-2.11.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7dadc59a59528e2a10786ffdf8a44db0/transformed/jetified-extension-ima-2.11.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67cf8260a5ee8a830f81ba511273ac66/transformed/jetified-extension-ima-2.11.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/032c07654511aadac5670842b0da8395/transformed/jetified-extension-ima-2.11.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/032c07654511aadac5670842b0da8395/transformed/jetified-extension-ima-2.11.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/032c07654511aadac5670842b0da8395/transformed/jetified-extension-ima-2.11.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-ima/2.11.7/d54269d03f2b378a542013749f62a1c009cbec6e/extension-ima-2.11.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-ima/2.11.7/f235c1ea814974c7ee2a2b80a4bfe06d804809e3/extension-ima-2.11.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

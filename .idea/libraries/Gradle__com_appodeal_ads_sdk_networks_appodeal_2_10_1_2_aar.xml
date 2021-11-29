@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:appodeal:2.10.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48c29313080c1fc760b09e15a8295777/transformed/jetified-appodeal-2.10.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2e4eb047309d897f6890dc62bc88623/transformed/jetified-appodeal-2.10.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aba7939d746b8429b30f25410a47289a/transformed/jetified-appodeal-2.10.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aba7939d746b8429b30f25410a47289a/transformed/jetified-appodeal-2.10.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aba7939d746b8429b30f25410a47289a/transformed/jetified-appodeal-2.10.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

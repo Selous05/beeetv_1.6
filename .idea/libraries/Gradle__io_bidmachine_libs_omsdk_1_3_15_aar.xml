@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.bidmachine.libs:omsdk:1.3.15@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/87ecaad8b9bd4538146aa3f0c393b096/transformed/jetified-omsdk-1.3.15/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50ec1acda9ca55ce39dbd6ae79e1d1e6/transformed/jetified-omsdk-1.3.15/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eabb6283028b8983a4069401c2752ca4/transformed/jetified-omsdk-1.3.15/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eabb6283028b8983a4069401c2752ca4/transformed/jetified-omsdk-1.3.15/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eabb6283028b8983a4069401c2752ca4/transformed/jetified-omsdk-1.3.15/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

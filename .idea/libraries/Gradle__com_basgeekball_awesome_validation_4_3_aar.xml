@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.basgeekball:awesome-validation:4.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67ba2aa494084cd22f44bf129eba05f9/transformed/jetified-awesome-validation-4.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67ba2aa494084cd22f44bf129eba05f9/transformed/jetified-awesome-validation-4.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/67ba2aa494084cd22f44bf129eba05f9/transformed/jetified-awesome-validation-4.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basgeekball/awesome-validation/4.3/3b10076bfefd9708e75de2d6446efacacb09e4e8/awesome-validation-4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basgeekball/awesome-validation/4.3/734e3a2c2ca305579d128dc7c32a72a1d16bbee3/awesome-validation-4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

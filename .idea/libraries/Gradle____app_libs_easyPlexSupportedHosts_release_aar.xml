@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/easyPlexSupportedHosts-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1f79ca00d2bb5c318059d55cc6265cfc/transformed/jetified-easyPlexSupportedHosts-release/jars/libs/rhino.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f79ca00d2bb5c318059d55cc6265cfc/transformed/jetified-easyPlexSupportedHosts-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f79ca00d2bb5c318059d55cc6265cfc/transformed/jetified-easyPlexSupportedHosts-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1f79ca00d2bb5c318059d55cc6265cfc/transformed/jetified-easyPlexSupportedHosts-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

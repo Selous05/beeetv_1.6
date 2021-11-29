@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.acra:acra-dialog:5.8.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/65e603d0678c6ab0a20b8d649295f870/transformed/jetified-acra-dialog-5.8.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d41bd8d0fe884b96fe6363d9e3e72066/transformed/jetified-acra-dialog-5.8.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/25dee043d78d2cc2ecbad0800dba9c0a/transformed/jetified-acra-dialog-5.8.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/25dee043d78d2cc2ecbad0800dba9c0a/transformed/jetified-acra-dialog-5.8.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/25dee043d78d2cc2ecbad0800dba9c0a/transformed/jetified-acra-dialog-5.8.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra-dialog/5.8.4/f13cba84a5600dc9edea9a67fb22a291e268d293/acra-dialog-5.8.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra-dialog/5.8.4/789da1b420a3edc3d000dd2ae50f720c38703ccd/acra-dialog-5.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

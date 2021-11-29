@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <com.beeecorptv.util.GridItemImageView
+            android:id="@+id/userAvatar"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/mainborder_bg"
+            android:padding="1dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            />
+
+
+
+        <TextView
+            android:id="@+id/user_profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/user_EasyPlex_com"
+            android:textSize="11sp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+            android:textColor="@color/grey_11" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:visibility="visible">
+
+
+        <TextView
+            android:id="@+id/user_profile_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            android:textSize="10sp"
+            android:layout_marginEnd="1dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/grey_40"
+            tools:ignore="SmallSp" />
+
+
+        <TextView
+            android:id="@+id/verified_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="- Verified"
+            android:textSize="10sp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/light_green_400"
+            tools:ignore="SmallSp" />
+
+
+
+
+    </LinearLayout>
+
+
+        <ImageButton
+            android:id="@+id/logout"
+            android:layout_width="@dimen/spacing_xmlarge"
+            android:layout_height="@dimen/spacing_xmlarge"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/image"
+            android:visibility="visible"
+            app:srcCompat="@drawable/ic_logout"
+            app:tint="@color/main_color" />
+
+        <Button
+            android:id="@+id/user_profile_edit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:textSize="12sp"
+            android:background="@drawable/btn_grey"
+            android:text="@string/edit_profile"
+            android:textAllCaps="false"
+            android:visibility="visible"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/user_subscribed_btn"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:textSize="12sp"
+            android:background="@drawable/btn_gradient"
+            android:text="@string/cancel_subscription"
+            android:textAllCaps="false"
+            android:visibility="gone"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/btn_subscribe"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:textSize="12sp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_gradient"
+            android:text="@string/subscribe"
+            android:textAllCaps="false"
+            android:visibility="gone"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:background="@drawable/btn_grey"
+            android:text="@string/login"
+            android:textAllCaps="false"
+            android:visibility="gone"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:gravity="center_horizontal"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:focusable="true">
+            <ImageButton
+                android:id="@+id/footer_facebook"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/pixel_20dp"
+                android:scaleType="fitXY"
+                android:gravity="center_horizontal"
+                android:backgroundTint="@color/main_color"
+                android:layout_marginBottom="30dp"
+                android:background="@drawable/ic_glyph_brands_facebook_f"/>
+            <ImageButton
+                android:id="@+id/footer_twitter"
+                android:layout_width="@dimen/pixel_20dp"
+                android:layout_height="@dimen/pixel_20dp"
+                android:gravity="center_horizontal"
+                android:backgroundTint="@color/main_color"
+                android:layout_marginBottom="30dp"
+                android:layout_marginStart="30dp"
+                android:background="@drawable/ic_glyph_brands_twitter"/>
+
+            <ImageButton
+                android:id="@+id/footer_instagram"
+                android:layout_width="@dimen/pixel_20dp"
+                android:layout_height="@dimen/pixel_20dp"
+                android:gravity="center_horizontal"
+                android:backgroundTint="@color/main_color"
+                android:layout_marginBottom="30dp"
+                android:layout_marginStart="30dp"
+                android:background="@drawable/ic_glyph_brands_instagram"/>
+
+
+            <ImageButton
+                android:id="@+id/footer_telegram"
+                android:layout_width="@dimen/pixel_20dp"
+                android:layout_height="@dimen/pixel_20dp"
+                android:gravity="center_horizontal"
+                android:backgroundTint="@color/main_color"
+                android:layout_marginBottom="30dp"
+                android:layout_marginStart="30dp"
+                android:background="@drawable/ic_glyph_brands_telegram"
+                android:contentDescription="@string/image" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</layout>

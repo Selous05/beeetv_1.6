@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.ads.sdk.networks:my_target:2.10.1.12@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57bd6c4eb8dfe3badb359cfb2a9c256e/transformed/jetified-my_target-2.10.1.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01b525b92461e2511ea873060cbc23e2/transformed/jetified-my_target-2.10.1.12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/28b3e7931310611f03938ff8b49aa707/transformed/jetified-my_target-2.10.1.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/28b3e7931310611f03938ff8b49aa707/transformed/jetified-my_target-2.10.1.12/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/28b3e7931310611f03938ff8b49aa707/transformed/jetified-my_target-2.10.1.12/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

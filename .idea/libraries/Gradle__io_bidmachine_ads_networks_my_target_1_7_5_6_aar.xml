@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.bidmachine:ads.networks.my_target:1.7.5.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/502786fd063b4d3332600dc7db06dc48/transformed/jetified-ads.networks.my_target-1.7.5.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7c044ccb9c29193f9894c4755435b779/transformed/jetified-ads.networks.my_target-1.7.5.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05ac7b2357ad691784b9c3fea16e80c5/transformed/jetified-ads.networks.my_target-1.7.5.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/05ac7b2357ad691784b9c3fea16e80c5/transformed/jetified-ads.networks.my_target-1.7.5.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05ac7b2357ad691784b9c3fea16e80c5/transformed/jetified-ads.networks.my_target-1.7.5.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

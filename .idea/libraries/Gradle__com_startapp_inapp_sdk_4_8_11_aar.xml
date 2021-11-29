@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.startapp:inapp-sdk:4.8.11@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3a434adaf5aa1dd45e7f716db3c6229b/transformed/jetified-inapp-sdk-4.8.11/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3a434adaf5aa1dd45e7f716db3c6229b/transformed/jetified-inapp-sdk-4.8.11/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3a434adaf5aa1dd45e7f716db3c6229b/transformed/jetified-inapp-sdk-4.8.11/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3a434adaf5aa1dd45e7f716db3c6229b/transformed/jetified-inapp-sdk-4.8.11/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/4.8.11/cebf202f14fac7477570db3156e7cb3d3e5ce3d4/inapp-sdk-4.8.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/4.8.11/5c6136c232b28e35d3213d1ff0c987578e8eedd/inapp-sdk-4.8.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.airbnb:deeplinkdispatch:5.4.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a5b9f8dada73a2f43c2b9dce93c0d32e/transformed/jetified-deeplinkdispatch-5.4.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5155631098306a3c4670ee45314ed73b/transformed/jetified-deeplinkdispatch-5.4.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a4451d710ffbebaefa7c17cc69c050b/transformed/jetified-deeplinkdispatch-5.4.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4a4451d710ffbebaefa7c17cc69c050b/transformed/jetified-deeplinkdispatch-5.4.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a4451d710ffbebaefa7c17cc69c050b/transformed/jetified-deeplinkdispatch-5.4.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/deeplinkdispatch/5.4.3/b4c1ebce873ba21006a68549ff4f8fde00ef2082/deeplinkdispatch-5.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/deeplinkdispatch/5.4.3/bb9b815cf01c534e8ddd5679b0063d85a4c76c48/deeplinkdispatch-5.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

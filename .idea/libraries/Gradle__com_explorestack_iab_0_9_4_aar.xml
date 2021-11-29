@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.explorestack:iab:0.9.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3fe7882f9c35b77692b9170687275c0/transformed/jetified-iab-0.9.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63d039a310e019ec718e2e677b3c1539/transformed/jetified-iab-0.9.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af1c1538e607d98ee8153f2d8982867f/transformed/jetified-iab-0.9.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af1c1538e607d98ee8153f2d8982867f/transformed/jetified-iab-0.9.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af1c1538e607d98ee8153f2d8982867f/transformed/jetified-iab-0.9.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

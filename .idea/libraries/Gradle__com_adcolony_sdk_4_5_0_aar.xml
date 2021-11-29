@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adcolony:sdk:4.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/60b225e8a4e2309b5941ed5b14def4ba/transformed/jetified-sdk-4.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c4fac3301d0edc435f0be785cb0c7d0b/transformed/jetified-sdk-4.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6942e737b44c3280108c1a6628f66044/transformed/jetified-sdk-4.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6942e737b44c3280108c1a6628f66044/transformed/jetified-sdk-4.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6942e737b44c3280108c1a6628f66044/transformed/jetified-sdk-4.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/92fd8b6c5a05de6dac1ad4a6c0165b8c6e8275aa/sdk-4.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/ddc09940c31b285b2cb64050f42be86e97b33acf/sdk-4.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
