@@ -44,7 +44,6 @@ public abstract class AppDatabase extends RoomDatabase
 
     public abstract DownloadDao downloadDao();
 
-
     public abstract UserAgentDao userAgentDao();
 
     public abstract BrowserBookmarksDao browserBookmarksDao();

@@ -6,7 +6,7 @@ import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
-import com.beeecorptv.EasyPlexApp;
+import com.beeecorptv.BeeeTvApp;
 import com.beeecorptv.di.component.DaggerAppComponent;
 import org.jetbrains.annotations.NotNull;
 import dagger.android.AndroidInjection;
@@ -23,15 +23,15 @@ public class AppInjector {
     private AppInjector() {
     }
 
-    public static void init(EasyPlexApp easyPlexApp) {
+    public static void init(BeeeTvApp beeeTvApp) {
 
         DaggerAppComponent
                 .builder()
-                .application(easyPlexApp)
+                .application(beeeTvApp)
                 .build()
-                .inject(easyPlexApp);
+                .inject(beeeTvApp);
 
-        easyPlexApp
+        beeeTvApp
                 .registerActivityLifecycleCallbacks(new Application.ActivityLifecycleCallbacks() {
                     @Override
                     public void onActivityCreated(@NotNull Activity activity, Bundle savedInstanceState) {

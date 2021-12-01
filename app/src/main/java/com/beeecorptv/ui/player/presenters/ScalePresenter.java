@@ -11,7 +11,7 @@ import com.beeecorptv.ui.player.bindings.PlayerController;
 import com.beeecorptv.ui.player.enums.ScaleMode;
 
 import static android.content.Context.MODE_PRIVATE;
-import static com.beeecorptv.EasyPlexApp.getContext;
+import static com.beeecorptv.BeeeTvApp.getContext;
 import static com.beeecorptv.util.Constants.PLAYER_ASPECT_RATIO;
 import static com.beeecorptv.util.Constants.PREF_FILE;
 

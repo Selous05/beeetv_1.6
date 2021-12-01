@@ -6,7 +6,7 @@ import static android.view.View.VISIBLE;
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;
 import static androidx.recyclerview.widget.RecyclerView.Adapter.StateRestorationPolicy.PREVENT_WHEN_EMPTY;
 import static com.bumptech.glide.load.resource.bitmap.BitmapTransitionOptions.withCrossFade;
-import static com.beeecorptv.EasyPlexApp.getContext;
+import static com.beeecorptv.BeeeTvApp.getContext;
 import static com.beeecorptv.ui.player.utilities.ExoPlayerLogger.i;
 import static com.beeecorptv.ui.player.utilities.ExoPlayerLogger.v;
 import static com.beeecorptv.util.Constants.AUTO_PLAY;

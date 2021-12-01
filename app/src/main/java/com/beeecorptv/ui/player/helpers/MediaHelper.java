@@ -1,7 +1,7 @@
 package com.beeecorptv.ui.player.helpers;
 
 import static android.content.Context.MODE_PRIVATE;
-import static com.beeecorptv.EasyPlexApp.getContext;
+import static com.beeecorptv.BeeeTvApp.getContext;
 import static com.beeecorptv.util.Constants.APP_NAME;
 import static com.beeecorptv.util.Constants.PLAYER_HEADER;
 import static com.beeecorptv.util.Constants.PLAYER_USER_AGENT;

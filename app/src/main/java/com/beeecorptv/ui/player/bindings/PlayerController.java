@@ -41,7 +41,7 @@ import java.util.Observable;
 import javax.inject.Inject;
 import static android.content.Context.MODE_PRIVATE;
 import static android.view.View.VISIBLE;
-import static com.beeecorptv.EasyPlexApp.getContext;
+import static com.beeecorptv.BeeeTvApp.getContext;
 import static com.beeecorptv.util.Constants.AUTO_PLAY;
 import static com.beeecorptv.util.Constants.CUSTOM_SEEK_CONTROL_STATE;
 import static com.beeecorptv.util.Constants.DEFAULT_FREQUENCY;

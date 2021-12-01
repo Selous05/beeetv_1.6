@@ -2,7 +2,7 @@ package com.beeecorptv.di.component;
 
 import android.app.Application;
 
-import com.beeecorptv.EasyPlexApp;
+import com.beeecorptv.BeeeTvApp;
 import com.beeecorptv.di.module.ActivityModule;
 import com.beeecorptv.di.module.FragmentBuildersModule;
 import com.beeecorptv.di.module.AppModule;
@@ -37,6 +37,6 @@ public interface AppComponent {
     }
 
     // Where the dependency injection has to be used.
-    void inject(EasyPlexApp app);
+    void inject(BeeeTvApp app);
 
 }

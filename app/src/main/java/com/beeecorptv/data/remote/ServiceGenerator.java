@@ -18,8 +18,8 @@ import android.util.Base64;
 
 import androidx.annotation.NonNull;
 
+import com.beeecorptv.BeeeTvApp;
 import com.beeecorptv.BuildConfig;
-import com.beeecorptv.EasyPlexApp;
 import com.beeecorptv.ui.manager.SettingsManager;
 import com.beeecorptv.ui.manager.TokenManager;
 import com.beeecorptv.ui.player.helpers.MediaHelper;
@@ -86,7 +86,7 @@ public class ServiceGenerator{
 
 
     private static final File httpCacheDirectory
-            = new File(EasyPlexApp.getContext().getCacheDir(), "responses");
+            = new File(BeeeTvApp.getContext().getCacheDir(), "responses");
     private static final int CACHE_SIZE = 30 * 1024 * 1024; // 10 MB
     private static final Cache cache = new Cache(httpCacheDirectory, CACHE_SIZE);
 
@@ -371,7 +371,7 @@ public class ServiceGenerator{
         public @NotNull Response intercept(@NonNull Chain chain) throws IOException {
             Request request = chain.request();
 
-            if (!EasyPlexApp.hasNetwork()) {
+            if (!BeeeTvApp.hasNetwork()) {
                 Timber.i("Offline cache applied");
                 int maxStale = 60 * 60 * 24 * 28; // tolerate 4-weeks stale
                 request = request.newBuilder()

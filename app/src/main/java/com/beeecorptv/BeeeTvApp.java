@@ -39,7 +39,7 @@ import timber.log.Timber;
  *
  * @author Yobex.
  */
-public class EasyPlexApp extends MultiDexApplication implements HasAndroidInjector {
+public class BeeeTvApp extends MultiDexApplication implements HasAndroidInjector {
 
 
 
@@ -134,7 +134,7 @@ public class EasyPlexApp extends MultiDexApplication implements HasAndroidInject
         // Disable StartAppSDK Splash
         StartAppAd.disableSplash();
         Timber.i("Creating EasyPlex Application");
-        EasyPlexApp.context = getApplicationContext();
+        BeeeTvApp.context = getApplicationContext();
 
         onInitPaypal();
 

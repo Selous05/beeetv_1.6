@@ -21,9 +21,13 @@ public abstract class Constants {
     }
 
 
+
     // this is your laravel main Server api ( Change this encoded value to Your Server Encoded URL ( BASE64 ) )
     // for ex http://192.168.1.130/public/api/          !note : url must be ending with /
-    public static final String SERVER_ENCODED = SC.obfuscate("aHR0cDovLzU0Ljg3LjIxOS4xODgvdXBkYXRlL3B1YmxpYy9hcGkv");
+    public static final String SERVER_ENCODED = SC.obfuscate("aHR0cDovLzE4NS4yMzQuNjkuNzQvcGxleC9wdWJsaWMvYXBpLw");
+
+    //aHR0cDovLzE4NS4yMzQuNjkuNzQvcGxleC9wdWJsaWMvYXBpLw  -plex
+    //aHR0cDovLzU0Ljg3LjIxOS4xODgvdXBkYXRlL3B1YmxpYy9hcGkv -update
 
 
 
